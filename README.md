@@ -3,7 +3,7 @@ Materiales utilizados en las dos sesiones sobre extracción de datos del seminar
 
 ## Preparación
 
-Durante la sesión utilizaremos {rvest} y otros paquetes que son parte de lo que se conoce como [Tidyverse](https://www.tidyverse.org/), un conjunto de paquetes diseñados para el trabajo en ciencia de datos. Además, es necesario instalar {janitor} y {beepr}. Todos están disponibles en CRAN, por lo que puedes utilizar la función `install.packages()` para obtenerlos:
+Durante la primera sesión utilizaremos {rvest} y otros paquetes que son parte de lo que se conoce como [Tidyverse](https://www.tidyverse.org/), un conjunto de paquetes diseñados para el trabajo en ciencia de datos. Además, es necesario instalar {janitor} y {beepr}. Todos están disponibles en CRAN, por lo que puedes utilizar la función `install.packages()` para obtenerlos:
 
 ```
 install.packages("tidyverse")
@@ -40,6 +40,8 @@ El directorio de en que guardaremos los materiales tendrá dos subcarpetas: una 
 ## Sitios web de ejemplo
 
 A lo largo de la sesión revisaremos algunos sitios web a modo de ejemplo o para discutir algunas ideas. Dejaremos acá los enlaces para que sea más fácil revisarlos. 
+
+:link: [Un sitio web](https://programminghistorian.org/es/lecciones/)
 
 :link: [Sitio web estático (tablas)](https://es.wikipedia.org/wiki/Anexo:%C3%81lbumes_musicales_m%C3%A1s_vendidos)
 
