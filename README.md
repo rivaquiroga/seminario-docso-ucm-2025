@@ -71,18 +71,18 @@ Durante el taller realizaremos algunos ejercicios para poner en práctica lo apr
 
 :link: [Página web](https://www.worldometers.info/world-population/population-by-country/) 
 
-:page_facing_up: [Código]()
+:page_facing_up: [Código](https://raw.githubusercontent.com/rivaquiroga/seminario-docso-ucm-2025/refs/heads/main/codigo/1_extraccion-tabla.R)
 
 
 ### Ejercicio 2: extraer texto
 
 :link: [Página web](https://www.minciencia.gob.cl/noticias/minciencia-abre-concursos-con-mas-de-1000-millones-para-proyectos-que-comuniquen-las-ciencias-y-los-conocimientos/)
 
-:page_facing_up: [Código]()
+:page_facing_up: [Código](https://raw.githubusercontent.com/rivaquiroga/seminario-docso-ucm-2025/refs/heads/main/codigo/2_extraccion-texto.R)
 
 ### Ejercicio 3: extraer enlaces y crear funciones
 
 :link: [Página web](https://www.minciencia.gob.cl/noticias)
 
-:page_facing_up: [Código]()
+:page_facing_up: Código
 
