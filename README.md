@@ -3,12 +3,13 @@ Materiales utilizados en las dos sesiones sobre extracción de datos del seminar
 
 ## Preparación
 
-Durante la primera sesión utilizaremos {rvest} y otros paquetes que son parte de lo que se conoce como [Tidyverse](https://www.tidyverse.org/), un conjunto de paquetes diseñados para el trabajo en ciencia de datos. Además, es necesario instalar {janitor} y {beepr}. Todos están disponibles en CRAN, por lo que puedes utilizar la función `install.packages()` para obtenerlos:
+Durante la primera sesión utilizaremos {rvest} y otros paquetes que son parte de lo que se conoce como [Tidyverse](https://www.tidyverse.org/), un conjunto de paquetes diseñados para el trabajo en ciencia de datos. Además, es necesario instalar {janitor}, {writexl} y {beepr}. Todos están disponibles en CRAN, por lo que puedes utilizar la función `install.packages()` para obtenerlos:
 
 ```
 install.packages("tidyverse")
 install.packages("beepr")
 install.packages("janitor")
+install.packages("writexl")
 ```
 
 ## Atajos de teclado útiles
