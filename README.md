@@ -67,6 +67,7 @@ A lo largo de la sesión revisaremos algunos sitios web a modo de ejemplo o para
 
 Durante el taller realizaremos algunos ejercicios para poner en práctica lo aprendido. Iremos escribiendo el código "en vivo" en la clase. 
 
+
 ### Ejercicio 1: extraer una tabla
 
 :link: [Página web](https://www.worldometers.info/world-population/population-by-country/) 
@@ -80,9 +81,6 @@ Durante el taller realizaremos algunos ejercicios para poner en práctica lo apr
 
 :page_facing_up: [Código](https://raw.githubusercontent.com/rivaquiroga/seminario-docso-ucm-2025/refs/heads/main/codigo/2_extraccion-texto.R)
 
-### Ejercicio 3: extraer enlaces y crear funciones
+## Registro
 
-:link: [Página web](https://www.minciencia.gob.cl/noticias)
-
-:page_facing_up: Código
-
+🎥 [Sesión 1](https://vimeo.com/1095724847)
