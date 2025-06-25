@@ -11,6 +11,7 @@ install.packages("beepr")
 install.packages("janitor")
 install.packages("writexl")
 ```
+No será necesario instalar paquetes nuevos para la segunda sesión. Los que usaremos para interactuar con las APIS ({httr} y {jsonlite}) están contenidos dentro del Tidyverse. 
 
 ## Atajos de teclado útiles
 
@@ -80,6 +81,16 @@ Durante el taller realizaremos algunos ejercicios para poner en práctica lo apr
 :link: [Página web](https://www.minciencia.gob.cl/noticias/minciencia-abre-concursos-con-mas-de-1000-millones-para-proyectos-que-comuniquen-las-ciencias-y-los-conocimientos/)
 
 :page_facing_up: [Código](https://raw.githubusercontent.com/rivaquiroga/seminario-docso-ucm-2025/refs/heads/main/codigo/2_extraccion-texto.R)
+
+### Ejercicio 3: extraer enlaces e iterar
+
+:link: [Página web](https://www.minciencia.gob.cl/noticias/)
+:page_facing_up: Código
+
+### Ejercicio 4: interactuar con una API
+
+:link: [Ejemplo de respuesta de la API de BioBio Chile](https://www.biobiochile.cl/lista/api/buscador?offset=0&search=ciencia+abierta&intervalo=&orden=ultimas)
+:page_facing_up: Código
 
 ## Registro
 
