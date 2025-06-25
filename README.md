@@ -85,11 +85,13 @@ Durante el taller realizaremos algunos ejercicios para poner en práctica lo apr
 ### Ejercicio 3: extraer enlaces e iterar
 
 :link: [Página web](https://www.minciencia.gob.cl/noticias/)
+
 :page_facing_up: Código
 
 ### Ejercicio 4: interactuar con una API
 
 :link: [Ejemplo de respuesta de la API de BioBio Chile](https://www.biobiochile.cl/lista/api/buscador?offset=0&search=ciencia+abierta&intervalo=&orden=ultimas)
+
 :page_facing_up: Código
 
 ## Registro
