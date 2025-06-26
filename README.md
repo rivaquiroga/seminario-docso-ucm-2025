@@ -97,3 +97,5 @@ Durante el taller realizaremos algunos ejercicios para poner en práctica lo apr
 ## Registro
 
 🎥 [Sesión 1](https://vimeo.com/1095724847)
+
+🎥 [Sesión 2](https://vimeo.com/1096678336)
