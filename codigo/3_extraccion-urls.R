@@ -89,4 +89,9 @@ noticias_minciencia <- map(1:29, extraer_urls) |>
   list_rbind()
 
 
+# Vamos a guardar esto como un archivo csv
+
+write_csv(noticias_minciencia, "datos/noticias-minciencia.csv")
+
+
 
