@@ -30,6 +30,7 @@ parse_number("17.20%")
 parse_number("-0.23%")
 parse_number("−0.23%")
 parse_number("-0.23%")
+parse_number("0,34")
 parse_number("0,34", locale = locale(decimal_mark = ","))
 
 # Si yo quisiera cambiar las columnas de a una, lo podría hacer así:
