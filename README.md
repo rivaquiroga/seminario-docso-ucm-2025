@@ -82,17 +82,20 @@ Durante el taller realizaremos algunos ejercicios para poner en práctica lo apr
 
 :page_facing_up: [Código](https://raw.githubusercontent.com/rivaquiroga/seminario-docso-ucm-2025/refs/heads/main/codigo/2_extraccion-texto.R)
 
-### Ejercicio 3: extraer enlaces e iterar
+### Ejercicios 3 y 4: extraer enlaces e iterar
 
 :link: [Página web](https://www.minciencia.gob.cl/noticias/)
 
-:page_facing_up: Código
+:page_facing_up: [Código extracción enlaces](https://raw.githubusercontent.com/rivaquiroga/seminario-docso-ucm-2025/refs/heads/main/codigo/3_extraccion-urls.R)
 
-### Ejercicio 4: interactuar con una API
+:page_facing_up: [Código extracción noticias](https://raw.githubusercontent.com/rivaquiroga/seminario-docso-ucm-2025/refs/heads/main/codigo/4_crear-funcion-extraccion.R)
+
+
+### Ejercicio 5: interactuar con una API
 
 :link: [Ejemplo de respuesta de la API de BioBio Chile](https://www.biobiochile.cl/lista/api/buscador?offset=0&search=ciencia+abierta&intervalo=&orden=ultimas)
 
-:page_facing_up: Código
+:page_facing_up: [Código](https://raw.githubusercontent.com/rivaquiroga/seminario-docso-ucm-2025/refs/heads/main/codigo/5_api-biobio-chile.R)
 
 ## Registro
 
