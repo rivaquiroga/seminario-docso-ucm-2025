@@ -38,6 +38,10 @@ tabla_noticias <- tibble(fecha = fechas, titular = titulares, url = urls) |>
 
 extraer_urls <- function(pagina){
   
+  # Paso 0: dejar pasar 3 segundos
+  
+  Sys.sleep(3)
+  
   # Paso 1: Guardar la url en un objeto y leer el código fuente de esa página
   
   url_noticias <- paste0("https://www.minciencia.gob.cl/noticias/?p=", pagina)
@@ -68,4 +72,21 @@ extraer_urls <- function(pagina){
   
 }
 
-  
+# Vamos a probar que nuestro código funciona y extrae datos de distintas páginas
+
+extraer_urls(30)
+
+
+# ¿Cómo hacer para extraer de varias páginas al mismo tiempo? 
+# La función map nos permite indicar lso argumentos por los que queremos que itere nuestra función. En este caso, los número del 1 al 3. Por defecto nos devuelve una lista con tres tablas en su interior (una por cada vez que aplicó la funció). Para que quede todo como una sola tabla, agregamos la función list_rbind()
+
+map(26:29, extraer_urls) |> 
+  list_rbind()
+
+# Vamos a extraer los datos de las páginas 1 a 29
+
+noticias_minciencia <- map(1:29, extraer_urls) |> 
+  list_rbind()
+
+
+
